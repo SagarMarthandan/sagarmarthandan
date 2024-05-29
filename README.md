@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Marthandan</h1>
-<h3 align="center">Motivated Computer Science graduate with a strong foundation in Data Engineering and Analytics, seeking to leverage skills in Python, SQL, and PySpark to drive business insights and optimize operations. -</h3>
+<h3 align="justify">Motivated Computer Science graduate with a strong foundation in Data Engineering and Analytics, seeking to leverage skills in Python, SQL, and PySpark to drive business insights and optimize operations. -</h3>
 
 ---
  - 🤝 I’m looking for a full time job **as a Data Engineer & Analyst**
