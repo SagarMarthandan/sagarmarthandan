@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagar Marthandan</h1>
 <h3 align="center">Motivated Computer Science graduate with a strong foundation in Data Engineering and Analytics, seeking to leverage skills in Python, SQL, and PySpark to drive business insights and optimize operations. -</h3>
-
+---
+- As a motivated Computer Science graduate with expertise in data processing using SQL, NoSQL, and Python (pandas, NumPy), I bring extensive experience in data visualization and BI tools such as Power BI, seaborn, and matplotlib. My proficiency in big data technologies, including AWS and Amazon Redshift, and hands-on experience in developing data pipelines using Airflow, complement my strong commitment to maintaining high standards of data quality assurance, troubleshooting, and ensuring data security and privacy compliance. I am certified as a Datacamp Associate Data Engineer and Advanced Data Engineer, and ITIL v3 Foundation certified, showcasing my dedication to continuous learning and professional development.
+- At IBM, I led a team of six as a Systems Engineer, managing CICS systems and overseeing resource definitions and system upgrades, improving system efficiency by 35% through proactive performance analysis and troubleshooting. I developed and implemented disaster recovery exercises and system audits, improving backup speed by 18% and ensuring robust data security. Additionally, I conducted load tests on CICS systems, achieving a 25% performance improvement and advising stakeholders on upgrades. I managed projects like a flight simulation tool at Hindustan Aeronautics Limited and an autonomous driving car project, boosting efficiency by 40%. My academic background includes a Master's in Informatics from the University of Kiel and a Bachelor's in Information Technology from NIT Surathkal, where I developed advanced data analysis techniques, enhancing anomaly detection in cancer data by 10%.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarmarthandan" alt="sagarmarthandan" /></a> </p>
-
+---
 - 🌱 I’m currently learning **PySpark, AWS for data Engineering**
 
 - 🤝 I’m looking for a full time job **as a Data Engineer & Analyst**
