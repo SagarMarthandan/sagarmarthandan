@@ -131,15 +131,15 @@ I'm a Data Engineer with expertise in building **scalable data pipelines** and a
 ## 📊 GitHub Stats
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarmarthandan" alt="sagarmarthandan" /></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarmarthandan&theme=flat" alt="sagarmarthandan" /> 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmarthandan&show_icons=true&locale=en&layout=compact" alt="sagarmarthandan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmarthandan&show_icons=true&locale=en&layout=compact&theme=default" alt="sagarmarthandan" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarmarthandan&show_icons=true&locale=en" alt="sagarmarthandan" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarmarthandan&show_icons=true&locale=en&theme=default" alt="sagarmarthandan" />
 </p>
 
 ---
