@@ -83,28 +83,28 @@ I'm a Data Engineer with expertise in building **scalable data pipelines** and a
 
 **Cloud & Data Platforms**
 <p align="left">
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303600/snowflake-1-logo.svg" alt="snowflake" width="40" height="40"/></a>
-<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374167/databricks.svg" alt="databricks" width="40" height="40"/></a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/></a>
+<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" alt="databricks" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://delta.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374167/delta-lake.svg" alt="delta" width="40" height="40"/></a>
+<a href="https://delta.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/delta_io/delta_io-icon.svg" alt="delta" width="40" height="40"/></a>
 </p>
 
 **Data Processing & Transformation**
 <p align="left">
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="spark" width="40" height="40"/></a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374319/dbt-1.svg" alt="dbt" width="40" height="40"/></a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 </p>
 
 **Data Visualization & BI**
 <p align="left">
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303589/microsoft-power-bi-logo.svg" alt="powerbi" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/plotly.svg" alt="plotly" width="40" height="40"/></a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
 </p>
 
 **Tools & Platforms**
