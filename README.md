@@ -121,7 +121,7 @@ I'm a Data Engineer with expertise in building **scalable data pipelines** and a
 <p align="left">
 <a href="https://linkedin.com/in/sagarmarthandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarmarthandan" height="30" width="40" /></a>
 <a href="https://twitter.com/sagarmarthandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarmarthandan" height="30" width="40" /></a>
-<a href="mailto:sagar.marthandan@yahoo.com"><img align="center" src="https://www.svgrepo.com/show/30113/mail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:sagar.marthandan@yahoo.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 **📧 Email**: sagar.marthandan@yahoo.com | **📱 Phone**: +49 176 74138359
