@@ -30,11 +30,11 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 <p align="left">
   <img src="https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white" height="36" alt="Python" title="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="36" alt="SQL/PostgreSQL" title="SQL/PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="36" alt="SQL/PostgreSQL" title="SQL/PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="36" alt="PySpark / Spark SQL" title="PySpark / Spark SQL" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="36" alt="DAX / Power Query" title="DAX / Power Query" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-B41717?style=flat-square&logo=jinja&logoColor=white" height="36" alt="Jinja" title="Jinja" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-007396?style=flat-square&logo=openjdk&logoColor=white" height="36" alt="Java" title="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-B01402?style=flat-square&logo=jinja&logoColor=white" height="36" alt="Jinja" title="Jinja" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-007396?style=flat-square&logo=java&logoColor=white" height="36" alt="Java" title="Java" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-5D4F85?style=flat-square&logo=haskell&logoColor=white" height="36" alt="Haskell" title="Haskell" />
 </p>
 
@@ -45,9 +45,9 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 <p align="left">
   <img src="https://img.shields.io/badge/-%20-FF694B?style=flat-square&logo=dbt&logoColor=white" height="36" alt="dbt" title="dbt" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="36" alt="Apache Airflow" title="Apache Airflow" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-615EFF?style=flat-square&logo=airbyte&logoColor=white" height="36" alt="Airbyte" title="Airbyte" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-FF433E?style=flat-square&logo=airbyte&logoColor=white" height="36" alt="Airbyte" title="Airbyte" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-4F43DD?style=flat-square&logo=dagster&logoColor=white" height="36" alt="Dagster" title="Dagster" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="36" alt="Apache Kafka" title="Apache Kafka" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=apachekafka&logoColor=white" height="36" alt="Apache Kafka" title="Apache Kafka" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-DC382D?style=flat-square&logo=redis&logoColor=white" height="36" alt="Redis" title="Redis" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-2496ED?style=flat-square&logo=docker&logoColor=white" height="36" alt="Docker" title="Docker" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="36" alt="Apache Spark" title="Apache Spark" />&nbsp;
@@ -64,17 +64,17 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 <p align="left">
   <img src="https://img.shields.io/badge/-%20-29B5E8?style=flat-square&logo=snowflake&logoColor=white" height="36" alt="Snowflake" title="Snowflake" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" height="36" alt="Google BigQuery" title="Google BigQuery" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-66A3FF?style=flat-square&logo=googlebigquery&logoColor=white" height="36" alt="Google BigQuery" title="Google BigQuery" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="36" alt="Google Cloud Platform" title="Google Cloud Platform" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="36" alt="Microsoft Azure" title="Microsoft Azure" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-FF3621?style=flat-square&logo=databricks&logoColor=white" height="36" alt="Azure Databricks" title="Azure Databricks" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="36" alt="Azure Data Factory" title="Azure Data Factory" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-003366?style=flat-square&logo=delta&logoColor=white" height="36" alt="Delta Lake" title="Delta Lake" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="36" alt="AWS" title="AWS" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=azuredatafactory&logoColor=white" height="36" alt="Azure Data Factory" title="Azure Data Factory" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-008080?style=flat-square&logo=deltalake&logoColor=white" height="36" alt="Delta Lake" title="Delta Lake" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="36" alt="AWS" title="AWS" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-569A31?style=flat-square&logo=amazons3&logoColor=white" height="36" alt="Amazon S3" title="Amazon S3" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="36" alt="Terraform" title="Terraform" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="36" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/-%20-844FBA?style=flat-square&logo=terraform&logoColor=white" height="36" alt="Terraform" title="Terraform" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-F25022?style=flat-square&logo=microsoft&logoColor=white" height="36" alt="Microsoft Fabric" title="Microsoft Fabric" />
 </p>
 
 **ADLS Gen2 · Azure Key Vault · Azure Entra RBAC · Unity Catalog · AWS IAM · AWS EC2**
@@ -99,13 +99,13 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 <p align="left">
   <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="36" alt="Power BI" title="Power BI" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-FF7043?style=flat-square&logo=apachesuperset&logoColor=white" height="36" alt="Apache Superset" title="Apache Superset" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-F05325?style=flat-square&logo=apachesuperset&logoColor=white" height="36" alt="Apache Superset" title="Apache Superset" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=looker&logoColor=white" height="36" alt="Looker Studio" title="Looker Studio" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-E97627?style=flat-square&logo=tableau&logoColor=white" height="36" alt="Tableau" title="Tableau" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="36" alt="Plotly" title="Plotly" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-11557C?style=flat-square&logo=python&logoColor=white" height="36" alt="Matplotlib" title="Matplotlib" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-4C9BE8?style=flat-square&logo=python&logoColor=white" height="36" alt="Seaborn" title="Seaborn" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="36" alt="Microsoft Excel" title="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/-%20-11557C?style=flat-square&logo=matplotlib&logoColor=white" height="36" alt="Matplotlib" title="Matplotlib" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white" height="36" alt="Seaborn" title="Seaborn" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-107C41?style=flat-square&logo=microsoftexcel&logoColor=white" height="36" alt="Microsoft Excel" title="Microsoft Excel" />
 </p>
 
 ---
@@ -114,8 +114,8 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 <p align="left">
   <img src="https://img.shields.io/badge/-%20-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="36" alt="LangChain" title="LangChain" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="36" alt="scikit-learn" title="scikit-learn" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-2CA5E0?style=flat-square&logo=python&logoColor=white" height="36" alt="Requests" title="Requests" />
+  <img src="https://img.shields.io/badge/-%20-F89939?style=flat-square&logo=scikitlearn&logoColor=white" height="36" alt="scikit-learn" title="scikit-learn" />&nbsp;
+  <img src="https://img.shields.io/badge/-%20-FF6C37?style=flat-square&logo=postman&logoColor=white" height="36" alt="Requests" title="Requests" />
 </p>
 
 **RAG · LangChain · LangGraph · BeautifulSoup · REST APIs · JSON/HTML/PDF Parsing · PCA · KNN · SVM**
