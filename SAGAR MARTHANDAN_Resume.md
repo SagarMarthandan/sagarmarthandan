@@ -1,4 +1,4 @@
-﻿**SAGAR MARTHANDAN**
+**SAGAR MARTHANDAN**
 
 Kiel, Germany | +49 176 74138359 | sagar.marthandan@yahoo.com | linkedin.com/in/sagarmarthandan
 
@@ -20,39 +20,45 @@ National Institute of Technology Karnataka, India
 
 **PROJECTS**
 
-__Star Schema for Enterprise Sales Analytics. *Tools*__*: Power BI, Power Query (M), DAX, SQL.*
+**Star Schema for Enterprise Sales Analytics. *Tools*:** *Power BI, Power Query (M), DAX, SQL, KPI, BI, Data Modeling, Stakeholder Reporting, Process Analysis*
 
-- Architected a robust, high-performance **Star Schema** model after leveraging **Power Query** (M language) for extensive data cleansing and transformation
-- Engineered complex **DAX measures** and calculated columns to derive key business metrics for sales, customer, and product analysis.
-- Developed and deployed interactive dashboards that translate complex business data into clear, **actionable insights** for stakeholders.
+- Designed a Star Schema data model structuring sales, customer, and product data into a query-ready foundation, applying dimensional modeling best practices across 1 fact table and seven-dimension tables.
+- Built KPI-driven DAX measures surfacing revenue, customer behavior, and product performance metrics — enabling stakeholder reporting and evidence-based decisions without ad-hoc data requests.
+- Delivered audience-specific Power BI dashboards with data analytics views, consolidating redundant metrics to retain only non-duplicated KPIs in the final reporting layer.
 
-__Scalable Data Transformation Pipelines. *Tools*__*: Snowflake, dbt, SQL, Jinja.*
+**Bitcoin Analytics Engineering Data Transformation Pipelines. *Tools*:** *AWS, S3, IAM, Snowflake, RBAC, dbt, SQL, Jinja, GitHub Actions, Data Catalogue*
 
-- Architected and implemented high-performance dimensional models (Star Schema) using dbt on Snowflake, optimizing the data structure for analytical querying speed to be used in Power BI
-- Optimized transformation logic via advanced Spark and Snowflake tuning techniques, achieving a measured 30-40 percent reduction in compute time and cost.
-- Elevated data integrity and transformation efficiency by developing reusable Jinja macros and implementing automated dbt quality tests (unique, not-null).
+- Implemented scalable multi-layered auditable ELT dbt pipelines transforming nested Bitcoin JSON from AWS S3 buckets into dimensional models for financial data analytics, transaction pattern analysis, and anomaly detection.
+- Reduced processing overhead by optimizing complex flattening logic using Python-based dbt models and Snowflake LATERAL FLATTEN, cutting transformation steps on large nested payloads.
+- Standardized governance and CI/CD via custom Jinja macros for currency logic, automated dbt test suites (unique, not-null), and GitHub Actions deployment pipelines.
 
-**End-To-End Formula One Data Processing. Tools:** *Azure Databricks, PySpark, Delta Lake, ADF, ADLS Gen2.*
+**End-To-End Formula One Data Processing. *Tools*:** *Azure Entra RBAC, Azure Blob, Azure Databricks, PySpark, Delta Lake, Data Lake, ADF, ADLS Gen2*
 
-- Designed and implemented end-to-end data pipelines using Azure Databricks, PySpark, and Delta Lake for batch and real-time processing.
-- Applied Medallion architecture (Bronze, Silver, Gold) to transform and optimize data workflows in Databricks Lakehouse.
-- Leveraged Spark SQL and Databricks Notebooks for data analysis, transformation, and visualization, including incremental data loading and job orchestration.
-- Integrated Azure Databricks with Azure Data Factory, developed trigger-based dataflows, and automated ETL processes for seamless orchestration and scalable data engineering solutions.
+- Designed and implemented an end-to-end ELT pipeline using Azure Databricks and PySpark, applying Medallion Architecture (Bronze → Silver → Gold) across ADLS Gen2 for scalable batch data processing.
+- Enforced role-based access control via Azure Entra RBAC and Unity Catalog across all pipeline layers, ensuring data security and governance at scale.
+- Integrated Azure Databricks with Azure Data Factory to build trigger-based dataflows, automating incremental data loading and job orchestration across the Lakehouse.
 
-__Master Thesis: Subspace Poisoning in High Dimensional Data. *Tools:*__ *Python, pandas, scikit-learn*__ 
+**Master Thesis: Subspace Poisoning in High Dimensional Data. *Tools*:** *Python, scikit-learn, NumPy, pandas, Jupyter, PCA, KNN, SVM*
 
-- Developed and implemented a PCA based outlier detection method using Median Absolute Deviation, improving anomaly detection in high-dimensional datasets.
-- Achieved a 10 percent increase in detection accuracy for cancer and symmetrically distributed datasets, enabling more compact and correlated data for machine learning and neural network applications
+- Developed a robust ML pipeline for anomaly detection in high-dimensional data – implemented PCA-based dimensionality reduction with Co-Median Absolute Deviation, benchmarked across 5 datasets with up to 30% injected contamination rate.
+- Trained and evaluated classification (KNN, SVM) and clustering models – achieved up to 12% improvement in Silhouette Score and measurably lower Davies-Bouldin Index vs. standard PCA under contaminated conditions.
+- Quantified projection robustness via Frobenius Norm – demonstrated up to 25% reduction in subspace distortion under data poisoning scenarios; results documented in reproducible Jupyter Notebooks.
 
 **TECHNICAL SKILLS**
 
-**Programming & Languages**: Python, Haskell, SQL, DAX, Pandas, NumPy
+**Programming & Query Languages**: Python, SQL, Advanced SQL (CTEs, Window Functions, Joins), Spark SQL, PySpark, DAX, Power Query (M), Jinja, Haskell
 
-**Cloud & Infrastructure**: Snowflake, Databricks, Delta Lake, Microsoft Azure (Data Factory, ADLS Gen2), AWS (basic)
+**Data Engineering & Transformation**: dbt, Apache Airflow, Dagster, Airbyte, ETL/ELT, Incremental Modeling, SCD Type 2, Dimensional Modeling, Data Modelling, Star Schema, Medallion Architecture
 
-**Data Visualization & Reporting**: Power BI, Seaborn, Matplotlib, Plotly, Excel, Dataflows
+**Cloud, Warehousing & Platforms**: Snowflake, Microsoft Azure (Data Factory, ADLS Gen2, Azure Key Vault, Unity Catalog, Azure Entra RBAC), Microsoft Fabric, Azure Databricks, Delta Lake, AWS (S3, IAM, EC2), Google BigQuery, GCP, Terraform (IaC), Docker, PostgreSQL
 
-**Data Processing & Workflow**: ETL, ELT, Airflow, dbt, Jinja (Templating, Macros), Spark, JSON, Apache Parquet, Kafka
+**Data Quality, Governance & CI/CD**: Soda Core, dbt Tests, GitHub Actions, GitLab, RBAC, Data Governance, Data Lineage, Data Catalogue, Monitoring & Alerting
+
+**Streaming & Distributed Systems**: Apache Kafka, Redis, PySpark
+
+**BI & Visualization**: Power BI, Apache Superset, Looker Studio, Plotly, Matplotlib, Seaborn, Microsoft Excel, Streamlit, Tableau (familiar), Dataflows
+
+**AI & Web Extraction**: Retrieval-Augmented Generation (RAG), LangChain, LangGraph, BeautifulSoup, Requests, REST APIs, JSON/HTML/PDF parsing, FAISS, OpenAI Embeddings, Prompt Engineering
 
 
 **PROFESSIONAL EXPERIENCE**
@@ -77,7 +83,7 @@ __Master Thesis: Subspace Poisoning in High Dimensional Data. *Tools:*__ *Python
 **SPOKEN LANGUAGES**
 
 - English - Native Proficiency
-- German - A2 Proficiency
+- German - B1 Proficiency (Completed, Planning B2)
 
 **SOFT SKILLS**
 

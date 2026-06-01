@@ -20,7 +20,7 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 - ☁️ **Cloud Warehousing** — Snowflake, BigQuery, Azure Databricks, Delta Lake
 - 📊 **Analytics Engineering** — dimensional modeling, SCD Type 2, Medallion Architecture
 - 🌊 **Streaming** — Apache Kafka, Redis, real-time FX and event processing
-- 🤖 **AI / LLM Tooling** — RAG, LangChain, LangGraph, REST API extraction
+- 🤖 **AI & LLM Tooling** — RAG, LangChain, LangGraph, FAISS vector search, Streamlit apps, Prompt Engineering
 
 ---
 
@@ -105,6 +105,7 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="36" alt="Plotly" title="Plotly" />&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" height="36" alt="Matplotlib" title="Matplotlib" />&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="36" alt="Seaborn" title="Seaborn" />&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="36" alt="Streamlit" title="Streamlit" />&nbsp;
   <img src="https://img.shields.io/badge/Excel-107C41?style=flat-square&logo=microsoftexcel&logoColor=white" height="36" alt="Microsoft Excel" title="Microsoft Excel" />
 </p>
 
@@ -124,22 +125,24 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 ## 🚀 Projects
 
-* 🏙️ **End-To-End Cloud Data Analytics Pipeline – NYC Taxi 2025** ([nyc-taxi-pipeline](https://github.com/SagarMarthandan/nyc-taxi-pipeline)) - Engineered a production-grade ELT pipeline ingesting NYC Taxi Trip Records (2025) via Airbyte into BigQuery, modeled through dbt mart layers (incremental + window functions) for KPI dashboards, with GCP infrastructure provisioned via Terraform and full CI/CD on every PR. - *<small>Python, Airflow, Airbyte, dbt, BigQuery, GCP, Docker, Terraform, GitHub Actions</small>*
-* 🏠 **Airbnb Analytics Engineering – Modern Data Stack Pipeline** ([airbnb-analytics-pipeline](https://github.com/SagarMarthandan/airbnb-analytics-pipeline)) - Built a complete Modern Data Stack ELT pipeline across staging, core, and mart layers on Snowflake with SCD Type 2 versioning, incremental fact models, and surrogate keys — validated via Dagster scheduling and dbt_expectations checks. - *<small>dbt, Snowflake, Dagster, Python, SQL</small>*
-* 📺 **YouTube End-To-End Analytics Data Pipeline** ([youtube-analytics-pipeline](https://github.com/SagarMarthandan/youtube-analytics-pipeline)) - Production-grade containerized ETL platform with multi-DAG Airflow workflows extracting paginated YouTube API v3 data into PostgreSQL, including drift management, Soda Core quality checks, and full unit/integration/E2E CI/CD via GitHub Actions. - *<small>Python, Airflow, PostgreSQL, Docker, Redis, GitHub Actions, pytest</small>*
-* 🌦️ **End-To-End Weather Data Analytics Pipeline** ([weather-data-pipeline](https://github.com/SagarMarthandan/weather-data-pipeline)) - Containerized ELT pipeline ingesting real-time weather data from the Weatherstack REST API into PostgreSQL via Airflow + Redis, with Docker-out-of-Docker dbt transformations materializing a gold-layer aggregate table into Apache Superset dashboards. - *<small>Python, Airflow, dbt, PostgreSQL, Docker, Redis, Apache Superset</small>*
-* ₿ **Bitcoin Analytics Engineering – Data Transformation Pipelines** ([bitcoin-analytics-engineering](https://github.com/SagarMarthandan/bitcoin-analytics-engineering)) - Scalable multi-layered ELT dbt pipelines transforming nested Bitcoin JSON from AWS S3 into Snowflake dimensional models for financial analytics and anomaly detection, with Snowflake LATERAL FLATTEN optimizations, Jinja macros, and automated CI/CD. - *<small>AWS S3, Snowflake, dbt, SQL, GitHub Actions</small>*
-* 🚴 **Bike Rentals Data Transformation Pipeline** ([bike-rentals-transformation](https://github.com/SagarMarthandan/bike-rentals-transformation)) - Kimball-style fact and dimension models for bike rental and weather datasets in Snowflake using dbt Cloud, with QUALIFY/ROW_NUMBER() in-query deduplication and Jinja-templated macros across Git-versioned environments. - *<small>dbt, Snowflake, SQL, Git</small>*
-* 💹 **Kafka FX Rates Stream Processing** ([kafka-fx-rates-stream](https://github.com/SagarMarthandan/kafka-fx-rates-stream)) - Kafka Producer-Consumer pipeline streaming live FX rates from CSV to a Kafka topic, with a real-time analytics consumer calculating percentage change vs. previous-day benchmarks at sub-second latency over traditional batch approaches. - *<small>Python, Apache Kafka, Pandas, Jupyter</small>*
-* 🏎️ **End-To-End Formula One Data Processing** ([formula1-data-processing](https://github.com/SagarMarthandan/formula1-data-processing)) - End-to-end ELT pipeline on Azure Databricks applying Medallion Architecture (Bronze → Silver → Gold) across ADLS Gen2, with Azure Entra RBAC + Unity Catalog governance and Azure Data Factory trigger-based orchestration for automated incremental loading. - *<small>Azure Databricks, PySpark, Delta Lake, Azure ADF</small>*
-* 📊 **Star Schema for Enterprise Sales Analytics** ([enterprise-sales-analytics](https://github.com/SagarMarthandan/enterprise-sales-analytics)) - Star Schema across 1 fact table and 7 dimension tables with KPI-driven DAX measures for revenue, customer behavior, and product performance — delivered as audience-specific Power BI dashboards for stakeholder reporting. - *<small>Power BI, DAX, SQL</small>*
-* 🧬 **Master Thesis: Subspace Poisoning in High-Dimensional Data** ([subspace-poisoning-detection](https://github.com/SagarMarthandan/subspace-poisoning-detection)) - PCA-based anomaly detection pipeline with Co-Median Absolute Deviation benchmarked across 5 datasets at up to 30% contamination — achieved 12% improvement in Silhouette Score and 25% reduction in subspace distortion via Frobenius Norm analysis. - *<small>Python, scikit-learn, NumPy, Pandas, Jupyter</small>*
+- 👔 **ATS Resume Pipeline – Streamlit App** ([ats-resume-pipeline](https://github.com/SagarMarthandan/ats-resume-pipeline)) - Developed a personal end-to-end resume tailoring Streamlit application using the OpenCode Go API to automate a 6-stage ATS-calibrated workflow, featuring an interactive session-state decision terminal and automated multi-pass LaTeX PDF compilation. - _<small>Python, Streamlit, OpenCode Go API, LaTeX, pdflatex, PowerShell, Prompt Engineering</small>_
+- 🔍 **RAG PDF Query System** ([rag-pdf-query-system](https://github.com/SagarMarthandan/rag-pdf-query-system)) - Built an end-to-end Retrieval-Augmented Generation pipeline ingesting PDF documents via PyPDF2, indexing OpenAI Embeddings into a local FAISS vector store, and implementing a LangChain Stuff Document QA Chain for high-fidelity conversational semantic search. - _<small>Python, LangChain, OpenAI Embeddings, FAISS, PyPDF2, TikToken, Google Colab</small>_
+- 🏙️ **End-To-End Cloud Data Analytics Pipeline – NYC Taxi 2025** ([nyc-taxi-pipeline](https://github.com/SagarMarthandan/nyc-taxi-pipeline)) - Engineered a production-grade ELT pipeline ingesting NYC Taxi Trip Records (2025) via Airbyte into BigQuery, modeled through dbt mart layers (incremental + window functions) for KPI dashboards, with GCP infrastructure provisioned via Terraform and full CI/CD on every PR. - _<small>Python, Airflow, Airbyte, dbt, BigQuery, GCP, Docker, Terraform, GitHub Actions, Claude CLI (VS Code)</small>_
+- 🏠 **Airbnb Analytics Engineering – Modern Data Stack Pipeline** ([airbnb-analytics-pipeline](https://github.com/SagarMarthandan/airbnb-analytics-pipeline)) - Built a complete Modern Data Stack ELT pipeline across staging, core, and mart layers on Snowflake with SCD Type 2 versioning, incremental fact models, and surrogate keys — validated via Dagster scheduling and dbt_expectations checks. - _<small>dbt, Snowflake, Dagster, Python, dbt_expectations, SQL, ELT</small>_
+- 📺 **YouTube End-To-End Analytics Data Pipeline** ([youtube-analytics-pipeline](https://github.com/SagarMarthandan/youtube-analytics-pipeline)) - Production-grade containerized ETL platform with multi-DAG Airflow workflows extracting paginated YouTube API v3 data into PostgreSQL, including drift management, Soda Core quality checks, and full unit/integration/E2E CI/CD via GitHub Actions. - _<small>Python, Airflow, PostgreSQL, Docker, Redis, Soda Core, pytest, GitHub Actions</small>_
+- 🌦️ **End-To-End Weather Data Analytics Pipeline** ([weather-data-pipeline](https://github.com/SagarMarthandan/weather-data-pipeline)) - Containerized ELT pipeline ingesting real-time weather data from the Weatherstack REST API into PostgreSQL via Airflow + Redis, with Docker-out-of-Docker dbt transformations materializing a gold-layer aggregate table into Apache Superset dashboards. - _<small>Python, Airflow, dbt, PostgreSQL, Docker, Redis, Apache Superset, Linux, WSL</small>_
+- ₿ **Bitcoin Analytics Engineering – Data Transformation Pipelines** ([bitcoin-analytics-engineering](https://github.com/SagarMarthandan/bitcoin-analytics-engineering)) - Scalable multi-layered ELT dbt pipelines transforming nested Bitcoin JSON from AWS S3 into Snowflake dimensional models for financial analytics and anomaly detection, with Snowflake LATERAL FLATTEN optimizations, Jinja macros, and automated CI/CD. - _<small>AWS S3, Snowflake, dbt, SQL, Jinja, GitHub Actions, Data Catalogue</small>_
+- 🚴 **Bike Rentals Data Transformation Pipeline** ([bike-rentals-transformation](https://github.com/SagarMarthandan/bike-rentals-transformation)) - Kimball-style fact and dimension models for bike rental and weather datasets in Snowflake using dbt Cloud, with QUALIFY/ROW_NUMBER() in-query deduplication and Jinja-templated macros across Git-versioned environments. - _<small>dbt, Snowflake, SQL, Git, Jinja</small>_
+- 💹 **Kafka FX Rates Stream Processing** ([kafka-fx-rates-stream](https://github.com/SagarMarthandan/kafka-fx-rates-stream)) - Kafka Producer-Consumer pipeline streaming live FX rates from CSV to a Kafka topic, with a real-time analytics consumer calculating percentage change vs. previous-day benchmarks at sub-second latency over traditional batch approaches. - _<small>Python, Apache Kafka, Pandas, Jupyter</small>_
+- 🏎️ **End-To-End Formula One Data Processing** ([formula1-data-processing](https://github.com/SagarMarthandan/formula1-data-processing)) - End-to-end ELT pipeline on Azure Databricks applying Medallion Architecture (Bronze → Silver → Gold) across ADLS Gen2, with Azure Entra RBAC + Unity Catalog governance and Azure Data Factory trigger-based orchestration for automated incremental loading. - _<small>Azure Databricks, PySpark, Delta Lake, Azure ADF, ADLS Gen2, Unity Catalog, RBAC</small>_
+- 📊 **Star Schema for Enterprise Sales Analytics** ([enterprise-sales-analytics](https://github.com/SagarMarthandan/enterprise-sales-analytics)) - Star Schema across 1 fact table and 7 dimension tables with KPI-driven DAX measures for revenue, customer behavior, and product performance — delivered as audience-specific Power BI dashboards for stakeholder reporting. - _<small>Power BI, Power Query (M), DAX, SQL, Data Modeling</small>_
+- 🧬 **Master Thesis: Subspace Poisoning in High-Dimensional Data** ([subspace-poisoning-detection](https://github.com/SagarMarthandan/subspace-poisoning-detection)) - PCA-based anomaly detection pipeline with Co-Median Absolute Deviation benchmarked across 5 datasets at up to 30% contamination — achieved 12% improvement in Silhouette Score and 25% reduction in subspace distortion via Frobenius Norm analysis. - _<small>Python, scikit-learn, NumPy, Pandas, Jupyter, PCA, KNN, SVM</small>_
 
 ---
 
 ## 💼 Professional Experience
 
-### ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white) IBM India Private Ltd &nbsp;·&nbsp; *Systems Programmer L2* &nbsp;·&nbsp; Aug 2014 – Dec 2018
+### ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white) IBM India Private Ltd &nbsp;·&nbsp; _Systems Programmer L2_ &nbsp;·&nbsp; Aug 2014 – Dec 2018
 
 ![CICS](https://img.shields.io/badge/CICS-052FAD?style=flat&logo=ibm&logoColor=white) ![Db2](https://img.shields.io/badge/Db2-052FAD?style=flat&logo=ibm&logoColor=white) ![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=flat&logo=ibm&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -152,11 +155,11 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 ## 🎓 Education
 
-| Degree | Institution | Status |
-|---|---|---|
-| **M.Sc. Quantitative Economics** | Christian-Albrecht-University of Kiel, Germany | 🟢 In Progress |
-| **M.Sc. Computer Science** | Christian-Albrecht-University of Kiel, Germany | ✅ Nov 2023 |
-| **B.Tech Information Technology** | NIT Karnataka, India | ✅ May 2014 |
+| Degree                            | Institution                                    | Status         |
+| --------------------------------- | ---------------------------------------------- | -------------- |
+| **M.Sc. Quantitative Economics**  | Christian-Albrecht-University of Kiel, Germany | 🟢 In Progress |
+| **M.Sc. Computer Science**        | Christian-Albrecht-University of Kiel, Germany | ✅ Nov 2023    |
+| **B.Tech Information Technology** | NIT Karnataka, India                           | ✅ May 2014    |
 
 ---
 
@@ -174,6 +177,6 @@ I'm a **Data / Analytics Engineer** who builds end-to-end data platforms — fro
 
 ---
 
-**🌐 Languages**: English (Native) · German (A2)  
+**🌐 Languages**: English (Native) · German (B1 - Completed, Planning for B2)  
 **🧠 Soft Skills**: ITIL v3 Foundations · SCRUM · Agile · Effective Communication  
 **📜 Certifications**: ITIL v3 Foundations
