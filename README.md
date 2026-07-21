@@ -106,7 +106,7 @@ I build end-to-end data platforms — from raw ingestion to production-grade BI 
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [ATS Resume Pipeline](https://github.com/SagarMarthandan/ats-resume-pipeline) | Streamlit app automating a 6-stage ATS-calibrated resume-tailoring workflow via the OpenCode Go API, with an interactive session-state decision terminal and automated multi-pass LaTeX PDF compilation. | Python · Streamlit · OpenCode Go API · LaTeX · PowerShell |
+| [Chicago Crime + Divvy Bike-Share Pipeline](https://github.com/SagarMarthandan/chicago-data-pipeline) | End-to-end data engineering project asking whether crime near a Divvy station affects ridership. Batch (Spark) + streaming (Kafka + Spark Structured Streaming) ingestion, dbt transformations, Airflow orchestration, Postgres + BigQuery warehouses, Grafana observability — all containerized with Docker. | Python · Spark · Kafka · dbt · Airflow · Postgres · BigQuery · Grafana · Docker · Terraform |
 | [RAG PDF Query System](https://github.com/SagarMarthandan/rag-pdf-query-system) | End-to-end RAG pipeline ingesting PDFs via PyPDF2, indexing OpenAI Embeddings into a local FAISS vector store, with a LangChain Stuff Document QA chain for conversational semantic search. | Python · LangChain · OpenAI Embeddings · FAISS · PyPDF2 |
 | [NYC Taxi 2025 — Cloud Analytics Pipeline](https://github.com/SagarMarthandan/nyc-taxi-pipeline) | Production-grade ELT pipeline ingesting NYC Taxi Trip Records (2025) via Airbyte into BigQuery, modeled through dbt mart layers (incremental + window functions), with GCP infra provisioned via Terraform and CI/CD on every PR. | Python · Airflow · Airbyte · dbt · BigQuery · GCP · Terraform · Docker · GitHub Actions |
 | [Airbnb Analytics Engineering Pipeline](https://github.com/SagarMarthandan/airbnb-analytics-pipeline) | Modern Data Stack ELT pipeline across staging, core, and mart layers on Snowflake with SCD Type 2 versioning, incremental fact models, and surrogate keys — validated via Dagster scheduling and dbt_expectations checks. | dbt · Snowflake · Dagster · Python · dbt_expectations · SQL |
@@ -147,17 +147,23 @@ I build end-to-end data platforms — from raw ingestion to production-grade BI 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarmarthandan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sagar's GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmarthandan&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarmarthandan&theme=default" alt="Sagar's GitHub Profile" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.deno.dev/?user=sagarmarthandan&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarmarthandan&theme=default" alt="Repos per Language" height="165"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarmarthandan&theme=default" alt="Most Commit Language" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=sagarmarthandan&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-**Languages:** English (Native) · German (B1 — completed, planning B2)
-**Soft Skills:** ITIL v3 Foundations · SCRUM · Agile · Effective Communication
-**Certifications:** ITIL v3 Foundations
+## 📋 Additional
+
+- **Languages:** English (Native) · German (B1 — completed, planning B2)
+- **Soft Skills:** ITIL v3 Foundations · SCRUM · Agile · Effective Communication
+- **Certifications:** ITIL v3 Foundations
