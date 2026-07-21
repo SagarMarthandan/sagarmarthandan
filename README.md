@@ -142,26 +142,6 @@ I build end-to-end data platforms — from raw ingestion to production-grade BI 
 | **M.Sc. Computer Science** | Christian-Albrecht-University of Kiel, Germany | Completed Nov 2023 |
 | **B.Tech Information Technology** | NIT Karnataka, India | Completed May 2014 |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarmarthandan&theme=default" alt="Sagar's GitHub Profile" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagarmarthandan&theme=default" alt="Repos per Language" height="165"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagarmarthandan&theme=default" alt="Most Commit Language" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=sagarmarthandan&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📋 Additional
 
 - **Languages:** English (Native) · German (B1 — completed, planning B2)
