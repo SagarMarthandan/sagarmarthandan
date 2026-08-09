@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — IBM India Private Ltd, Systems Programmer L2">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; --ghost: #CCCCCC; --node-bg: #F0F0F0; --core-bg: #E8E8E8; --ink: #000000; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; --ghost: #2A2A2A; --node-bg: #1A1A1A; --core-bg: #222222; --ink: #FFFFFF; --paper: #000000; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.35s} .a4{animation-delay:.5s} .a5{animation-delay:.65s} .a6{animation-delay:.8s} .a7{animation-delay:.95s} .a8{animation-delay:1.1s}
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade,.pop,.grow,.tick,.ring,.dot { animation: none; }
+      .draw { stroke-dashoffset: 0; }
+      .rise,.fade,.pop,.grow { opacity: 1; transform: none; }
+      .ring { opacity: 0; }
+    }
+    :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --ghost: #FFFFFF; --node-bg: #000000; --core-bg: #000000; --ink: #FFFFFF; --paper: #000000; }
+  </style>
+
+  <line x1="120" y1="10" x2="120" y2="240" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+
+  <g class="rise a1">
+    <text class="mono" x="48" y="42" font-size="12" fill="var(--accent)" letter-spacing="2">2014 –</text>
+    <text class="mono" x="48" y="58" font-size="12" fill="var(--accent)" letter-spacing="2">2018</text>
+    <text class="mono" x="136" y="42" font-size="15" fill="var(--bone)">IBM India Private Ltd · Systems Programmer L2 · India</text>
+    <text class="mono" x="136" y="68" font-size="14" fill="var(--muted)">Improved reliability of high-volume, real-time message flows by tuning CICS, Db2, and IBM MQ.</text>
+    <text class="mono" x="136" y="90" font-size="14" fill="var(--muted)">Strengthened data integrity through CICS audits and enhanced monitoring for transaction latency.</text>
+    <text class="mono" x="136" y="112" font-size="14" fill="var(--muted)">Leveraged SMF and MQ Events analytics to drive modernization planning and optimize queuing.</text>
+    <text class="mono" x="136" y="134" font-size="14" fill="var(--muted)">Reduced platform overhead by 15% by automating recurring CICS and MQ operational maintenance.</text>
+  </g>
+
+  <g class="rise a2">
+    <text class="mono" x="48" y="182" font-size="12" fill="var(--accent)" letter-spacing="2">STACK</text>
+    <text class="mono" x="136" y="182" font-size="15" fill="var(--bone)">CICS · Db2 · IBM MQ · Linux</text>
+  </g>
+
+  <g class="rise a3">
+    <text class="mono" x="48" y="216" font-size="12" fill="var(--accent)" letter-spacing="2">ROLES</text>
+    <text class="mono" x="136" y="216" font-size="15" fill="var(--bone)">Systems Programmer L2 → data engineering career pivot (2019–present)</text>
+  </g>
+</svg>

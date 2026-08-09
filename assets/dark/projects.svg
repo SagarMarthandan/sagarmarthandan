@@ -1,0 +1,112 @@
+<svg viewBox="0 0 1000 1470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="13 projects by Sagar Marthandan">
+  <style>
+    :root { --ink: #000000; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --ink: #FFFFFF; --paper: #000000; } }
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .row { opacity:0; animation: reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; font-family:ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .copy { fill:var(--ink); font-size:12px; font-family:ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; font-family:ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
+    .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
+    .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --ghost: #FFFFFF; --node-bg: #000000; --core-bg: #000000; --ink: #FFFFFF; --paper: #000000; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / CHICAGO CRIME &amp; MOBILITY</text>
+      <text class="copy" x="48" y="49">Containerized data platform asking whether crime near Divvy bike-share stations affects ridership.</text>
+      <text class="copy" x="48" y="68">Batch Spark crime ingestion + streaming Kafka→Spark for Divvy GBFS, dbt transforms, BigQuery ML, Grafana.</text>
+      <text class="meta" x="48" y="87">PYTHON · SPARK · KAFKA · DBT · AIRFLOW · BIGQUERY · DOCKER · TERRAFORM · GRAFANA</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / NYC TAXI ANALYTICS</text>
+      <text class="copy" x="48" y="49">Production-grade ELT pipeline for 2025 NYC Taxi Trip Records on GCP with Terraform-provisioned infra.</text>
+      <text class="copy" x="48" y="68">Airbyte ingestion → BigQuery raw → dbt star-schema marts with schema tests and GitHub Actions CI.</text>
+      <text class="meta" x="48" y="87">PYTHON · AIRFLOW · AIRBYTE · DBT · BIGQUERY · GCP · TERRAFORM · DOCKER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / YOUTUBE ANALYTICS ELT</text>
+      <text class="copy" x="48" y="49">Containerized ELT pipeline pulling YouTube Data API v3 analytics into multi-layer PostgreSQL via Airflow.</text>
+      <text class="copy" x="48" y="68">Dynamic playlist discovery, batched stats extraction, Soda Core quality gates, full CI/CD with DockerHub.</text>
+      <text class="meta" x="48" y="87">PYTHON · AIRFLOW · POSTGRESQL · DOCKER · REDIS · SODA CORE · GITHUB ACTIONS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / REAL-TIME WEATHER ANALYTICS</text>
+      <text class="copy" x="48" y="49">ELT pipeline ingesting live weather from Weatherstack API into PostgreSQL, transformed by dbt into marts.</text>
+      <text class="copy" x="48" y="68">Airflow + Redis broker orchestration, Docker-out-of-Docker dbt, Superset dashboards for trends.</text>
+      <text class="meta" x="48" y="87">PYTHON · AIRFLOW · DBT · POSTGRESQL · DOCKER · REDIS · APACHE SUPERSET</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title" x="48" y="24">05 / FORMULA 1 DATA PLATFORM</text>
+      <text class="copy" x="48" y="49">End-to-end F1 data platform ingesting Ergast datasets into Azure with Medallion Architecture (B→S→G).</text>
+      <text class="copy" x="48" y="68">Databricks notebooks with Spark/PySpark, ADF orchestration, Key Vault credentials, Delta Lake ACID upserts.</text>
+      <text class="meta" x="48" y="87">AZURE DATABRICKS · PYSPARK · DELTA LAKE · AZURE ADF · ADLS GEN2 · KEY VAULT</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r6" transform="translate(0 570)">
+      <text class="title" x="48" y="24">06 / F1 LAKEHOUSE GOVERNANCE</text>
+      <text class="copy" x="48" y="49">Azure Databricks lakehouse with centralized Unity Catalog governance across Bronze/Silver/Gold schemas.</text>
+      <text class="copy" x="48" y="68">Automated Databricks Workflows DAG orchestration, Delta Lake managed tables, snake_case cleansing layer.</text>
+      <text class="meta" x="48" y="87">AZURE DATABRICKS · PYSPARK · DELTA LAKE · UNITY CATALOG · ADLS GEN2</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r7" transform="translate(0 680)">
+      <text class="title" x="48" y="24">07 / AIRBNB ANALYTICS ENGINEERING</text>
+      <text class="copy" x="48" y="49">dbt transformation pipeline across Staging, Core, and Mart layers on Snowflake with SCD Type 2 snapshots.</text>
+      <text class="copy" x="48" y="68">Incremental fact tables with surrogate keys, dbt_expectations quality checks, Dagster asset orchestration.</text>
+      <text class="meta" x="48" y="87">DBT · SNOWFLAKE · DAGSTER · PYTHON · DBT_EXPECTATIONS · JINJA</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r8" transform="translate(0 790)">
+      <text class="title" x="48" y="24">08 / BITCOIN WHALE ANALYTICS</text>
+      <text class="copy" x="48" y="49">dbt pipeline flattening nested Bitcoin transaction outputs via SQL LATERAL FLATTEN into whale-address marts.</text>
+      <text class="copy" x="48" y="68">Identifies high-value (&gt;10 BTC) addresses, top-10 by volume, SCD Type 2 snapshots, GitHub Actions CI/CD.</text>
+      <text class="meta" x="48" y="87">DBT · SNOWFLAKE · SQL · JINJA · GITHUB ACTIONS · LOOKER STUDIO</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r9" transform="translate(0 900)">
+      <text class="title" x="48" y="24">09 / OKF-CV RESUME ENGINE</text>
+      <text class="copy" x="48" y="49">Hybrid search resume tailoring system combining OKF 4-layer phrase matching with Zvec semantic embeddings.</text>
+      <text class="copy" x="48" y="68">Local TCP embedding daemon, self-learning keyword enrichment, LaTeX/ReportLab PDF compilation pipeline.</text>
+      <text class="meta" x="48" y="87">PYTHON · SENTENCE-TRANSFORMERS · ZVEC · LATEX · EMBEDDINGS · HYBRID SEARCH</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r10" transform="translate(0 1010)">
+      <text class="title" x="48" y="24">10 / DACH ATS RESUME OPTIMIZER</text>
+      <text class="copy" x="48" y="49">Streamlit web app automating resume and cover letter tailoring for German/DACH ATS systems via 6-stage pipeline.</text>
+      <text class="copy" x="48" y="68">Interactive decision terminal, LaTeX PDF compilation, OpenCode Go LLM routing, visual layout audit.</text>
+      <text class="meta" x="48" y="87">STREAMLIT · PYTHON · LATEX · OPENAI · ANTHROPIC · DACH ATS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r11" transform="translate(0 1120)">
+      <text class="title" x="48" y="24">11 / PDF RAG QA SYSTEM</text>
+      <text class="copy" x="48" y="49">End-to-end RAG pipeline ingesting PDFs via PyPDF2, embedding with OpenAI, indexing in local FAISS vector store.</text>
+      <text class="copy" x="48" y="68">LangChain stuff QA chain with GPT for grounded, context-aware answers from semantic similarity search.</text>
+      <text class="meta" x="48" y="87">PYTHON · LANGCHAIN · OPENAI · FAISS · PYPDF2 · RAG</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r12" transform="translate(0 1230)">
+      <text class="title" x="48" y="24">12 / ROBUST PCA (COMAD)</text>
+      <text class="copy" x="48" y="49">Research project reimplementing PCA using median-based Co-Median Absolute Deviation matrix for outlier robustness.</text>
+      <text class="copy" x="48" y="68">Benchmarked across 9 datasets with classification, clustering, and statistical significance testing.</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · NUMPY · PANDAS · PCA · KNN · SVM</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r13" transform="translate(0 1340)">
+      <text class="title" x="48" y="24">13 / ADVENTURE WORKS DASHBOARD</text>
+      <text class="copy" x="48" y="49">Power BI dashboard for a global cycling manufacturer with Star Schema model and advanced DAX time intelligence.</text>
+      <text class="copy" x="48" y="68">Three-page report with What-If price-adjustment slicer, return-rate analysis, and 110% growth target tracking.</text>
+      <text class="meta" x="48" y="87">POWER BI · DAX · POWER QUERY (M) · STAR SCHEMA · WHAT-IF PARAMETERS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>
