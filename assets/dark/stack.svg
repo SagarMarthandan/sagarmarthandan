@@ -15,22 +15,22 @@
     :root { --bone: #FFFFFF; --muted: #FFFFFF; --dim: #FFFFFF; --rule: #FFFFFF; --accent: #FFFFFF; --ghost: #FFFFFF; --node-bg: #000000; --core-bg: #000000; --ink: #FFFFFF; --paper: #000000; }
   </style>
 
-  <line x1="174" y1="8" x2="174" y2="264" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <line x1="215" y1="8" x2="215" y2="264" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32" font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="190" y="32" font-size="15" fill="var(--bone)">Python · SQL · PySpark · DAX / Power Query · Jinja · Java · Haskell</text>
+  <text class="mono rise a1" x="240" y="32" font-size="15" fill="var(--bone)">Python · SQL · PySpark · DAX / Power Query · Jinja · Java · Haskell</text>
   <text class="mono rise a2" x="48" y="64" font-size="12" fill="var(--muted)" letter-spacing="2">ENGINEERING</text>
-  <text class="mono rise a2" x="190" y="64" font-size="15" fill="var(--bone)">dbt · Airflow · Airbyte · Dagster · Kafka · Redis · Docker · Spark</text>
+  <text class="mono rise a2" x="240" y="64" font-size="15" fill="var(--bone)">dbt · Airflow · Airbyte · Dagster · Kafka · Redis · Docker · Spark</text>
   <text class="mono rise a3" x="48" y="96" font-size="12" fill="var(--muted)" letter-spacing="2">PROCESSING</text>
-  <text class="mono rise a3" x="190" y="96" font-size="15" fill="var(--bone)">Pandas · NumPy · Jupyter · Spark SQL · PySpark</text>
+  <text class="mono rise a3" x="240" y="96" font-size="15" fill="var(--bone)">Pandas · NumPy · Jupyter · Spark SQL · PySpark</text>
   <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">WAREHOUSING</text>
-  <text class="mono rise a4" x="190" y="128" font-size="15" fill="var(--bone)">Snowflake · BigQuery · Azure Databricks · Delta Lake · AWS S3</text>
+  <text class="mono rise a4" x="240" y="128" font-size="15" fill="var(--bone)">Snowflake · BigQuery · Azure Databricks · Delta Lake · AWS S3</text>
   <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">CLOUD / IaC</text>
-  <text class="mono rise a5" x="190" y="160" font-size="15" fill="var(--bone)">GCP · Azure · AWS · Terraform · Data Factory · Fabric</text>
+  <text class="mono rise a5" x="240" y="160" font-size="15" fill="var(--bone)">GCP · Azure · AWS · Terraform · Data Factory · Fabric</text>
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">QUALITY / CI</text>
-  <text class="mono rise a6" x="190" y="192" font-size="15" fill="var(--bone)">GitHub Actions · GitLab CI · Git · pytest · Soda Core · Linux</text>
+  <text class="mono rise a6" x="240" y="192" font-size="15" fill="var(--bone)">GitHub Actions · GitLab CI · Git · pytest · Soda Core · Linux</text>
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">VISUALIZATION</text>
-  <text class="mono rise a7" x="190" y="224" font-size="15" fill="var(--bone)">Power BI · Superset · Looker Studio · Tableau · Plotly · Streamlit</text>
+  <text class="mono rise a7" x="240" y="224" font-size="15" fill="var(--bone)">Power BI · Superset · Looker Studio · Tableau · Plotly · Streamlit</text>
   <text class="mono rise a8" x="48" y="256" font-size="12" fill="var(--muted)" letter-spacing="2">AI / LLM</text>
-  <text class="mono rise a8" x="190" y="256" font-size="15" fill="var(--bone)">LangChain · LangGraph · scikit-learn · FAISS · RAG · Sentence-Transformers</text>
+  <text class="mono rise a8" x="240" y="256" font-size="15" fill="var(--bone)">LangChain · LangGraph · scikit-learn · FAISS · RAG · Sentence-Transformers</text>
 </svg>
