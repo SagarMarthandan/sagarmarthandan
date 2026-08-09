@@ -2,17 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Sagar Marthandan"/></picture>
 
-<table align="center" border="1" cellpadding="14" cellspacing="0" bordercolor="#808080"><tr><td align="center">
-
-<a href="https://linkedin.com/in/sagarmarthandan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-&nbsp;
-<a href="mailto:sagar.marthandan@yahoo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000000" alt="Email"/></picture></a>
-&nbsp;
-<a href="https://twitter.com/sagarmarthandan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-&nbsp;
-<a href="https://github.com/SagarMarthandan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
-
-</td></tr></table>
+<a href="https://linkedin.com/in/sagarmarthandan">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:sagar.marthandan@yahoo.com">Email</a> &nbsp;·&nbsp; <a href="https://twitter.com/sagarmarthandan">X</a> &nbsp;·&nbsp; <a href="https://github.com/SagarMarthandan">GitHub</a>
 
 </div>
 
