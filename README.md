@@ -2,8 +2,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Sagar Marthandan"/></picture>
 
-<a href="https://linkedin.com/in/sagarmarthandan">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:sagar.marthandan@yahoo.com">Email</a> &nbsp;·&nbsp; <a href="https://twitter.com/sagarmarthandan">X</a> &nbsp;·&nbsp; <a href="https://github.com/SagarMarthandan">GitHub</a>
-
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
@@ -27,5 +25,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — education"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/education.svg"/><img src="assets/education.svg" alt="Education"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sagarmarthandan">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:sagar.marthandan@yahoo.com">Email</a> &nbsp;·&nbsp; <a href="https://twitter.com/sagarmarthandan">X</a> &nbsp;·&nbsp; <a href="https://github.com/SagarMarthandan">GitHub</a>
+
+</div>
 
 <!-- one responsive picture per visual; no duplicate light/dark rendering -->
