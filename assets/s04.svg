@@ -2,7 +2,7 @@
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; --ghost: #CCCCCC; --node-bg: #F0F0F0; --core-bg: #E8E8E8; --ink: #000000; --paper: #FFFFFF; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; --ghost: #2A2A2A; --node-bg: #1A1A1A; --core-bg: #222222; --ink: #FFFFFF; --paper: #000000; } }
-    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .mono { font-family: "Source Code Pro", "Google Sans Code", "MesloLGS NF", monospace; }
     .draw { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 760; stroke-dashoffset: 760; animation: d 1.3s cubic-bezier(.6,0,.2,1) .2s forwards; }
     @keyframes d { to { stroke-dashoffset: 0; } }
     .f { opacity: 0; animation: f .8s ease .1s forwards; }
