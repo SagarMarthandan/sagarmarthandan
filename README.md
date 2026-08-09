@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Sagar Marthandan"/></picture>
 
-<table align="center"><tr><td>
+<table align="center" border="1" cellpadding="14" cellspacing="0" bordercolor="#808080"><tr><td align="center">
 
 <a href="https://linkedin.com/in/sagarmarthandan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
 &nbsp;
